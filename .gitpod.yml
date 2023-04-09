@@ -1,4 +1,4 @@
-image: drud/ddev-gitpod-base:20230310
+image: drud/ddev-gitpod-base:20221216
 tasks:
   - name: build-run
     init: |
